@@ -25,5 +25,4 @@ The main scripts of interest are:
 
 ### References
 
-* [https://blog.plover.com/lang/anagram-scoring.html](The blog post that got me
-  interested in this)
+* [The blog post that got me interested in this](https://blog.plover.com/lang/anagram-scoring.html)
