@@ -1,4 +1,4 @@
-## Pilaf's fork of mjdominus/anagram-scoring
+## Pilaf's fork of [mjdominus/anagram-scoring](https://github.com/mjdominus/anagram-scoring)
 
 This fork just adds this README and a tiny change to `Ana.pm` to make the
 scripts run for me. I know almost nothing about Perl so it's likely the
@@ -14,9 +14,9 @@ $ PERL5LIB="." ./make-scoredict dict-file
 ```
 
 `dict-file` is any simple word-list file, e.g. the one that comes preinstalled
-in macOS/Linux `/usr/shared/dict/words`.
+in macOS/Linux, `/usr/share/dict/words`.
 
-### Overview
+### Scripts overview
 
 The main scripts of interest are:
 
