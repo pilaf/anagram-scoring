@@ -18,6 +18,7 @@ C<Ana> – Utility functions for anagrams
 =cut
 
 use Carp 'confess';
+use Ana::Graph;
 use strict;
 
 
